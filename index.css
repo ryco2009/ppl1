@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.p{
+  margin-left:39.1vh;
+  
+}
+
+.title{
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+  font-size:30px;
+  font-family: 'Lobster', cursive;
+  text-align:center;
+  
+}
+
+.pro{
+  width:30vh;
+  height:30vh;
+  border-radius:50%;
+  border-color:transparent;
+  -webkit-box-shadow: 3px 7px 23px 2px rgba(0,0,0,0.74); 
+box-shadow: 3px 7px 23px 2px rgba(0,0,0,0.74);
+}
+
+.pos{
+  margin-top:-19vh;
+  margin-left:35rem;
+}
+
+.pos_title{
+  margin-top:5vh;
+  margin-left:-10em;
+}
+
+.fb{
+  width:30px;
+  height:30px;
+  border-radius:50%;
+  -webkit-box-shadow: 3px 7px 30px 2px rgba(0,0,0,0.86); 
+box-shadow: 3px 7px 30px 2px rgba(0,0,0,0.86);
+}
+
+.pos_f{
+  margin-top:-23vh;
+  margin-left:55.55rem;
+}
+
+.yt{
+   width:30px;
+  height:30px;
+  border-radius:50%;
+  -webkit-box-shadow: 3px 7px 30px 2px rgba(0,0,0,0.86); 
+box-shadow: 3px 7px 30px 2px rgba(0,0,0,0.86);
+}
+
+.yt_pos{
+  margin-top:-2rem;
+  margin-left:65rem;
+}
+
+.ig{
+   width:30px;
+  height:30px;
+  border-radius:50%;
+  -webkit-box-shadow: 3px 7px 30px 2px rgba(0,0,0,0.86); 
+box-shadow: 3px 7px 30px 2px rgba(0,0,0,0.86);
+}
+
+.ig_pos{
+  margin-left:60.3rem;
+  margin-top:-1.6rem;
+}
